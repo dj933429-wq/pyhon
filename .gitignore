@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database files
+database/*.db
+!database/.gitkeep
+
+# Logs and scratch files
+*.log
+scratch/
+
+# Operating System and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Course slides / PDFs
+*.pdf
